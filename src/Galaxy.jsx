@@ -10,3 +10,5 @@ const Galaxy = () => {
 }
 
 export default Galaxy
+
+// So if i render a page here that would be my opener starting withh options on solar systems....

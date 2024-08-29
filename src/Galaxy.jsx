@@ -14,3 +14,5 @@ export default Galaxy
 // So if i render a page here that would be my opener starting withh options on solar systems....
 
 // so i was thinking of adding a section for armies down the raod a real kingdom builder.
+
+// so my first teachers never explained anything thewy tough through trying to show and shoot down and questions.
